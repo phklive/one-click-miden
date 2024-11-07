@@ -1,5 +1,7 @@
 # One Click Miden
 
+![Red Polygon Miden button](./logo.png)
+
 This script automates the installation and initialization of the Miden CLI, ensuring you have everything you need to start working with the Miden rollup!
 
 Simply run the following command:
