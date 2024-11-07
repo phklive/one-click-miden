@@ -1,6 +1,6 @@
 # One Click Miden
 
-Welcome to the **One Click Miden**! This script automates the installation and initialization of the Miden CLI, ensuring you have everything you need to start working with Miden!
+This script automates the installation and initialization of the Miden CLI, ensuring you have everything you need to start working with the Miden rollup!
 
 Simply run the following command:
 
