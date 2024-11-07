@@ -10,11 +10,21 @@ curl -fsSL https://raw.githubusercontent.com/phklive/miden.sh/refs/heads/main/mi
 
 ## Table of Contents
 
+- [Prerequisites](#prerequisites)
 - [Script Details](#script-details)
 - [Next Steps](#next-steps)
 - [License](#license)
 
-## Script details
+## Prerequisites
+
+Before running the script, ensure you have the following:
+
+- **Operating System**: Linux or macOS or Windows with WSL. The script uses Bash shell commands.
+- **Terminal with ANSI Color Support**: To display colored output and ASCII art properly.
+- **Internet Connection**: Required to download and install dependencies like Rust and Miden CLI.
+- **Sufficient Permissions**: Ability to install software and create directories in your environment.
+
+## Script Details
 
 This script performs the following actions:
 
