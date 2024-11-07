@@ -6,6 +6,7 @@ RESET="\e[0m"
 
 # Function to print messages in purple with a newline under them
 print_purple() {
+    echo ""
     echo -e "${PURPLE}$1${RESET}"
     echo ""
 }
