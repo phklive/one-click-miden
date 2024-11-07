@@ -1,23 +1,20 @@
-# Miden Setup Script
+# One Click Miden
 
-Welcome to the **Miden Setup Script**! This script is a **ONE CLICK** automatic installation and initialization of the Miden CLI, ensuring you have everything you need to start working with Miden!
+Welcome to the **One Click Miden**! This script automates the installation and initialization of the Miden CLI, ensuring you have everything you need to start working with Miden!
 
 Simply run the following command:
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/yourusername/yourrepository/main/miden.sh | sh
+curl -fsSL https://raw.githubusercontent.com/phklive/miden.sh/refs/heads/main/miden.sh | sh
 ```
 
 ## Table of Contents
 
-- [Overview](#overview)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
 - [Script Details](#script-details)
 - [Next Steps](#next-steps)
 - [License](#license)
 
-## Overview
+## Script details
 
 This script performs the following actions:
 
