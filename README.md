@@ -49,4 +49,4 @@ After running the script:
 
 ## License
 
-This script is open-source and available under the MIT [License](./LICENSE). Feel free to modify and distribute it as per the license terms.
+This script is open-source and available under the MIT [License](./LICENSE).
