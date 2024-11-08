@@ -87,11 +87,11 @@ print "Codebase -> https://github.com/0xPolygonMiden"
 print "Playground -> https://0xpolygonmiden.github.io/examples/"
 
 # Welcome user
-echo -e "${PURPLE} __        __   _                            _          ${RESET}" 
-echo -e "${PURPLE} \\ \\      / /__| | ___ ___  _ __ ___   ___  | |_ ___    __  __ ___ ___  ___  _  _   ${RESET}"
-echo -e "${PURPLE}  \\ \\ /\\ / / _ \\ |/ __/ _ \\| '_ \` _ \\ / _ \\ | __/ _ \\  |  \\/  |_ _|   \\| __|| \\| |  ${RESET}"
-echo -e "${PURPLE}   \\ V  V /  __/ | (_| (_) | | | | | |  __/ | || (_) | | |\\/| || || |) | _| | .\` |   ${RESET}"
-echo -e "${PURPLE}    \\_/\\_/ \\___|_|\\___\\___/|_| |_| |_|\\___|  \\__\\___/  |_|  |_|___|___/|___||_|\\_|   ${RESET}"
+echo " __        __   _                            _          " 
+echo " \\ \\      / /__| | ___ ___  _ __ ___   ___  | |_ ___    __  __ ___ ___  ___  _  _   "
+echo "  \\ \\ /\\ / / _ \\ |/ __/ _ \\| '_ \` _ \\ / _ \\ | __/ _ \\  |  \\/  |_ _|   \\| __|| \\| |  "
+echo "   \\ V  V /  __/ | (_| (_) | | | | | |  __/ | || (_) | | |\\/| || || |) | _| | .\` |   "
+echo "    \\_/\\_/ \\___|_|\\___\\___/|_| |_| |_|\\___|  \\__\\___/  |_|  |_|___|___/|___||_|\\_|   "
 
 print "Fasten your seatbelts! We're about to take off into the world of privacy!"
 
