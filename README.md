@@ -13,7 +13,13 @@ curl -fsSL https://raw.githubusercontent.com/phklive/miden.sh/refs/heads/main/mi
 Session host account:
 
 ```bash
-0x926f2ba59ae0aa77
+0x9b5f531caa375e50
+```
+
+Session ASSETB faucet ID:
+
+```bash
+0xa3d468012baccd26
 ```
 
 ## Table of Contents
