@@ -10,6 +10,12 @@ Simply run the following command:
 curl -fsSL https://raw.githubusercontent.com/phklive/miden.sh/refs/heads/main/miden.sh | sh && cd miden
 ```
 
+Session host account:
+
+```bash
+0x926f2ba59ae0aa77
+```
+
 ## Table of Contents
 
 - [Prerequisites](#prerequisites)
