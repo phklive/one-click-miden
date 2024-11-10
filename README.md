@@ -7,7 +7,7 @@ This script automates the installation and initialization of the Miden CLI, ensu
 Simply run the following command:
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/phklive/miden.sh/refs/heads/main/miden.sh | sh
+curl -fsSL https://raw.githubusercontent.com/phklive/miden.sh/refs/heads/main/miden.sh | sh && cd miden
 ```
 
 ## Table of Contents
